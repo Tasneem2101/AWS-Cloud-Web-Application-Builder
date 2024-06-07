@@ -15,3 +15,5 @@ This project demonstrates how to design, build, and deploy a highly available, s
 + Solution Requirements
 + Testing
 
+# Introduction
+In this project, I will create a proof of concept (POC) to host a web application for student records on AWS. The goal of this project is to improve user experience during peak periods by ensuring the application is highly available, scalable, load balanced, secure, and high-performing.
