@@ -1,1 +1,1 @@
-# AWS-Cloud-Web-Application-Builder
+# AWS Cloud Project: Hosting a High-Availability Web Application
