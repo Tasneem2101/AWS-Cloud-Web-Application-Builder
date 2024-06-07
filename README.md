@@ -5,10 +5,10 @@ This project demonstrates how to design, build, and deploy a highly available, s
 + Architecture
 + Prerequisites
 + Project Phases
-   1.Phase : Planning the Design and Estimating Cost
-   2.Phase : Creating a Basic Functional Web Application
-   3.Phase : Decoupling the Application Components
-   4.Phase : Implementing High Availability and Scalability
+    1. Phase : Planning the Design and Estimating Cost
+    2. Phase : Creating a Basic Functional Web Application
+    3. Phase : Decoupling the Application Components
+    4. Phase : Implementing High Availability and Scalability
 + Lab Environment and Budget Monitoring
 + Assumptions
 + Approach
